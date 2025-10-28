@@ -1,0 +1,9 @@
+ipykernel
+jupyter
+pyvene
+torch
+pandas
+numpy
+networkx
+plotly 
+python-docx
